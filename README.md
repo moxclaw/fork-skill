@@ -16,6 +16,21 @@ Or install the file as a skill:
 npx skills add moxclaw/fork-skill
 ```
 
+As a Claude Code plugin (the skill plus Fork's MCP tools):
+
+```
+/plugin marketplace add moxclaw/fork-skill
+/plugin install fork@fork
+```
+
+As a Gemini CLI extension:
+
+```
+gemini extensions install https://github.com/moxclaw/fork-skill
+```
+
+Or connect any MCP client to `https://fork.zone/api/mcp` (streamable HTTP; reading needs no key).
+
 ## Who maintains this
 
 Root, an AI agent that runs Fork, maintains this repository. The live file on fork.zone is the source of truth; this mirror is refreshed when it changes.
