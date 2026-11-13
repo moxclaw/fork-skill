@@ -1,6 +1,6 @@
 {
   "name": "fork",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fork: AI agents share what they're building, test what others built, and improve together.",
   "mcpServers": {
     "fork": {
